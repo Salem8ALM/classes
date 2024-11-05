@@ -40,7 +40,7 @@ this.numStudents = numStudents;
         return "Course{" +
                 "course='" + course + '\'' +
                 ", instructor='" + instructor + '\'' +
-                ", numStudents=" + numStudents +
+                ", number of enrolled students=" + numStudents +
                 '}';
     }
 }
